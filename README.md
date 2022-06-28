@@ -12,5 +12,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+  <img align="center" src="https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg" />
 
 
